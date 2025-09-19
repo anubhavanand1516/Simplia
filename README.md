@@ -49,6 +49,8 @@ Run after `homecare_leads.csv` exists:
 ```bash
 python call_simulator.py
 ```
+<img width="871" height="308" alt="Screenshot 2025-09-19 at 2 35 49 PM" src="https://github.com/user-attachments/assets/7a5a22aa-dece-4d77-b0ea-4192845f551f" />
+
 You’ll see example scripts for:
 - 2 High-quality leads (Script A, direct booking).
 - 1 Low-quality lead (Script B, nurture).
