@@ -126,5 +126,3 @@ get_script(quality, row, rep="Anand", company="Simplia", objection="budget appro
 - No High/Medium/Low examples printed: With small samples, some tiers might be empty; increase `num_records` in `main.py` or adjust scoring thresholds.
 - Import errors: Ensure you’re in the project directory and the venv is activated.
 
-## License
-MIT (or your preferred license)
