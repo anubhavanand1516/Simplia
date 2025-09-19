@@ -107,7 +107,7 @@ Templates:
 
 Use:
 ```python
-get_script(quality, row, rep="Anand", company="Catalizex", objection="budget approval")
+get_script(quality, row, rep="Anand", company="Simplia", objection="budget approval")
 ```
 
 ## Typical Workflow
