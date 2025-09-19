@@ -1,0 +1,26 @@
+contact_name,business_name,phone,email,city,county,industry,website_present,budget_ready,decision_maker_available,purchase_timeline_days,demographic_fit,created_at,score,quality
+Michael Smith,SmithCare Assistance,+1-732-450-4657,michael.smith@smithcare.com,Paterson,Passaic,Senior Living,True,False,True,61,Seniors,2025-09-19T13:05:42,50,Medium
+Grace Smith,SmithCare Senior Care,+1-732-816-1434,grace.smith@smithcare.com,Hamilton,Mercer,Rehab / PT Center,False,False,True,64,Nurses,2025-09-19T13:05:42,40,Medium
+Emma Johnson,Emma & Co Homecare Services,+1-732-914-7924,emma.johnson@emmaco.com,Woodbridge,Middlesex,Palliative Care,True,False,True,18,Discharge Planners,2025-09-19T13:05:42,70,High
+Liam Brown,Liam & Co Senior Care,+1-732-470-1711,liam.brown@liamco.com,Camden,Camden,Pediatric Homecare,True,False,True,77,Case Managers,2025-09-19T13:05:42,50,Medium
+Laura Taylor,Laura & Co Assistance,+1-732-791-4150,laura.taylor@lauraco.com,Camden,Camden,Senior Living,True,True,True,17,Guardians,2025-09-19T13:05:42,85,High
+Noah Smith,Noah & Co Health,+1-732-850-6977,noah.smith@noahco.com,Paterson,Passaic,Private Caregiver,True,False,False,89,Seniors,2025-09-19T13:05:42,25,Low
+Ethan Taylor,TaylorCare Home Support,+1-732-450-3677,ethan.taylor@taylorcare.com,Toms River,Ocean,Case Management,True,False,False,35,Children with disabilities,2025-09-19T13:05:42,20,Low
+Ava Johnson,JohnsonCare Care,+1-732-523-7572,ava.johnson@johnsoncare.com,Edison,Middlesex,Senior Living,True,False,False,47,Caregivers,2025-09-19T13:05:42,35,Low
+Michael Wilson,Michael & Co Home Support,+1-732-669-3340,michael.wilson@michaelco.com,Edison,Middlesex,Nursing Home,True,False,True,81,Discharge Planners,2025-09-19T13:05:42,50,Medium
+Ethan Miller,Ethan & Co Homecare Services,+1-732-721-9085,ethan.miller@ethanco.com,Jersey City,Hudson,Home Health Agency,False,True,True,61,Nurses,2025-09-19T13:05:42,70,High
+Liam Miller,Liam & Co Health,+1-732-741-5119,liam.miller@liamco.com,Hamilton,Mercer,Home Health Agency,True,True,False,41,Guardians,2025-09-19T13:05:42,50,Medium
+Michael Brown,BrownCare Health,+1-732-361-8433,michael.brown@browncare.com,Newark,Essex,Palliative Care,False,False,True,20,Guardians,2025-09-19T13:05:42,45,Medium
+Michael Davis,Michael & Co Senior Care,+1-732-823-4258,michael.davis@michaelco.com,Paterson,Passaic,Private Caregiver,False,False,False,74,Seniors,2025-09-19T13:05:42,15,Low
+Ethan Brown,Ethan & Co Care,+1-732-571-6038,ethan.brown@ethanco.com,Elizabeth,Union,Home Health Agency,True,False,True,69,Guardians,2025-09-19T13:05:42,35,Low
+Liam Anderson,Liam & Co Homecare Services,+1-732-875-8787,liam.anderson@liamco.com,Hamilton,Mercer,Nursing Home,True,False,True,34,Nurses,2025-09-19T13:05:42,60,Medium
+Daniel Moore,Daniel & Co Home Support,+1-732-519-7537,daniel.moore@danielco.com,Clifton,Passaic,Private Caregiver,True,False,True,35,Seniors,2025-09-19T13:05:42,60,Medium
+Ava Johnson,Ava & Co Homecare Services,+1-732-802-4608,ava.johnson@avaco.com,Newark,Essex,Senior Living,False,True,True,11,Guardians,2025-09-19T13:05:42,75,High
+Ava Smith,Ava & Co Assistance,+1-732-885-8953,ava.smith@avaco.com,Elizabeth,Union,Nursing Home,False,False,True,38,Guardians,2025-09-19T13:05:42,35,Low
+Jacob Miller,MillerCare Care,+1-732-874-8062,jacob.miller@millercare.com,Woodbridge,Middlesex,Case Management,True,False,True,90,Children with disabilities,2025-09-19T13:05:42,35,Low
+Liam Johnson,Liam & Co Assistance,+1-732-311-5073,liam.johnson@liamco.com,Elizabeth,Union,Rehab / PT Center,True,True,True,66,Caregivers,2025-09-19T13:05:42,80,High
+Laura Smith,Laura & Co Senior Care,+1-732-300-1828,laura.smith@lauraco.com,Clifton,Passaic,Home Health Agency,False,False,False,28,Discharge Planners,2025-09-19T13:05:42,35,Low
+Jacob Wilson,WilsonCare Health,+1-732-260-3697,jacob.wilson@wilsoncare.com,Lakewood,Ocean,Home Health Agency,False,True,False,65,Case Managers,2025-09-19T13:05:42,45,Medium
+Sophia Moore,Sophia & Co Senior Care,+1-732-877-8973,sophia.moore@sophiaco.com,Paterson,Passaic,Rehab / PT Center,True,False,True,76,Seniors,2025-09-19T13:05:42,50,Medium
+Sarah Brown,BrownCare Senior Care,+1-732-688-9238,sarah.brown@browncare.com,Morristown,Morris,Nursing Home,True,False,False,15,Nurses,2025-09-19T13:05:42,45,Medium
+Liam Taylor,Liam & Co Health,+1-732-322-5033,liam.taylor@liamco.com,Trenton,Mercer,Home Health Agency,True,False,True,73,Case Managers,2025-09-19T13:05:42,50,Medium
